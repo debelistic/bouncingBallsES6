@@ -1,5 +1,9 @@
 #mdn object oriented javascript
 
+The code is written in Javascript es6
+
+All the js action is in the bouncingballses6.js file
+
 Using the prototype based javascript we created a bouncing balls class at https://developer.mozilla.org/
 
 This code is rewrites the class using ES6 classes
